@@ -4,7 +4,7 @@ It make no sence to write here in english, if that version is explicit german
 Es ergibt nur sinn indem ich das hier zumindest in Deutsch übersetze.
 
 
-I also have testing Marlin 2.0.9.5, but had less quality and need more time to config, nevertheless i couldn't solve an error by printing while auto-bed-leveling was on.
+I also have testing Marlin 2.0.9.5, but the print had less quality and need more time to config, nevertheless i couldn't solve an error by printing while auto-bed-leveling was on.
 
 Ich habe mich auch versucht mit Marlin 2.0.9.5 anzufreunden, doch die Druckqualität war schlechter und der Aufwand größer, außerdem kam es zu Fehlern der Druckbewegungen bei aktiver Netz-Nivellierung
 
