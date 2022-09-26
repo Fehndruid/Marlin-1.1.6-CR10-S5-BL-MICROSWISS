@@ -41,14 +41,14 @@
    * Verbose version identifier which should contain a reference to the location
    * from where the binary was downloaded or the source code was compiled.
    */
-  #define DETAILED_BUILD_VERSION "Creality 3D"
+  #define DETAILED_BUILD_VERSION "1.1.6BL_V3.build-4"
 
   /**
    * The STRING_DISTRIBUTION_DATE represents when the binary file was built,
    * here we define this default string as the date where the latest release
    * version was tagged.
    */
-  #define STRING_DISTRIBUTION_DATE "2019-04-12"
+  #define STRING_DISTRIBUTION_DATE "2022-09-25"
 
   /**
    * Required minimum Configuration.h and Configuration_adv.h file versions.
@@ -70,7 +70,7 @@
   /**
    * Defines a generic printer name to be output to the LCD after booting Marlin.
    */
-  #define MACHINE_NAME "3D Printer"
+  #define MACHINE_NAME "CR-10 S5"
 
   /**
    * The SOURCE_CODE_URL is the location where users will find the Marlin Source
@@ -78,7 +78,7 @@
    * has a distinct Github fork— the Source Code URL should just be the main
    * Marlin repository.
    */
-  #define SOURCE_CODE_URL "https://github.com/MarlinFirmware/Marlin"
+  #define SOURCE_CODE_URL "https://github.com/Fehndruid/Marlin"
 
   /**
    * Default generic printer UUID.
@@ -89,6 +89,6 @@
    * The WEBSITE_URL is the location where users can get more information such as
    * documentation about a specific Marlin release.
    */
-  #define WEBSITE_URL "www.cxsw3d.com"
+  #define WEBSITE_URL "www.moralin.net"
 
 #endif // USE_AUTOMATIC_VERSIONING

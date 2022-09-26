@@ -35,6 +35,55 @@
 
 #define THIS_LANGUAGES_SPECIAL_SYMBOLS      _UxGT("ÄäÖöÜüß²³")
 
+#ifndef MSG_LEVEL_CORNERS
+  #define MSG_LEVEL_CORNERS                   _UxGT("Ecken Nivellierung")
+#endif
+#ifndef MSG_POWER_LOSS_RECOVERY
+  #define MSG_POWER_LOSS_RECOVERY             _UxGT("Wiederaufnahme nach Unterbrechung?")
+#endif
+#ifndef MSG_CHINESE_LANGUAGE
+  #define MSG_CHINESE_LANGUAGE                _UxGT("Chinesisch")
+#endif
+#ifndef MSG_ENGLISH_LANGUAGE
+  #define MSG_ENGLISH_LANGUAGE                _UxGT("Deutsch")
+#endif
+#ifndef MSG_SELECT_LANGUAGE
+  #define MSG_SELECT_LANGUAGE                 _UxGT("Sprachauswahl")
+#endif
+#ifndef MSG_DELTA_RADIUS
+  #define MSG_DELTA_RADIUS                    _UxGT("Radius")
+#endif
+#ifndef MSG_DELTA_HEIGHT
+  #define MSG_DELTA_HEIGHT                    _UxGT("Höhe")
+#endif
+#ifndef MSG_DELTA_DIAG_ROG
+  #define MSG_DELTA_DIAG_ROG                  _UxGT("Diagonal Stange")
+#endif
+#ifndef MSG_BLTOUCH_STOW
+  #define MSG_BLTOUCH_STOW                    _UxGT("Einzug BLTouch")
+#endif
+#ifndef MSG_BLTOUCH_SW_MODE
+  #define MSG_BLTOUCH_SW_MODE                 _UxGT("SW Einsatz BLTouch")
+#endif
+#ifndef MSG_BLTOUCH_5V_MODE
+  #define MSG_BLTOUCH_5V_MODE                 _UxGT("BLTouch 5V Modus")
+#endif
+#ifndef MSG_BLTOUCH_OD_MODE
+  #define MSG_BLTOUCH_OD_MODE                 _UxGT("BLTouch OD Modus")
+#endif
+#ifndef MSG_NO_STORAGE
+  #define MSG_NO_STORAGE                      _UxGT("Kein Speicher")
+#endif
+#ifndef MSG_MESH_LOADED
+  #define MSG_MESH_LOADED                     _UxGT("Netz %i geladen")
+#endif
+#ifndef MSG_MESH_SAVED
+  #define MSG_MESH_SAVED                      _UxGT("Netz %i gespeichert")
+#endif
+#ifndef MSG_NEXT_CORNER
+  #define MSG_NEXT_CORNER                     _UxGT("Nächste Ecke")
+#endif
+
 #define WELCOME_MSG                         MACHINE_NAME _UxGT(" bereit")
 #define MSG_BACK                            _UxGT("Zurück")
 #define MSG_SD_INSERTED                     _UxGT("SD-Karte erkannt")
