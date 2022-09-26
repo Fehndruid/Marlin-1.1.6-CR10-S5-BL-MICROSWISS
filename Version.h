@@ -78,7 +78,7 @@
    * has a distinct Github fork— the Source Code URL should just be the main
    * Marlin repository.
    */
-  #define SOURCE_CODE_URL "https://github.com/Fehndruid/Marlin"
+  #define SOURCE_CODE_URL "https://github.com/Fehndruid/Marlin-1.1.6-CR10-S5-german-BL-MICROSWISS"
 
   /**
    * Default generic printer UUID.
